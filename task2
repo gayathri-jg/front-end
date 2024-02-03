@@ -1,0 +1,57 @@
+<html>
+<body>
+    <table border="10" align="center" width="100%">
+        <tr>
+                <td rowspan="3" align="center"><b>Day</b>
+                    <td colspan="3" align="center"><b>Seminar</b>
+                        </tr>
+                        <tr>
+                        <td colspan="2" align="center"><b>Schedule</b>
+                            <td rowspan="2" align="center"><b>Topic</b>
+                            </tr>
+                            <tr>
+                                <td align="center"><b>Begin</b>
+                                    <td align="center"><b>End</b>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2" align="center">MONDAY
+                                <td rowspan="2" align="center" bgcolor="yellow">8:00am
+                                <td rowspan="2" align="center" bgcolor="violet">5:00pm
+                                    <td align="center">Introduction of xml
+                                        </tr>
+                                        <tr>
+                                        <td align="center">Validity:dtd and relax Ng</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3" align="center">TUESDAY
+                                                <td  align="center" bgcolor="yellow">8:00am
+                                                <td  align="center" bgcolor="yellow">11:00am
+                                                    <td rowspan="2" align="center">Xpath</td>
+                                                    </td>
+                                                    <tr>
+                                        
+                                                        <td align="center" bgcolor="yellow">11:00am
+                                                            <td align="center" bgcolor="lime">02:00pm</td>
+                                                         
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                       
+                                                            <td align="center" bgcolor="lime">02:00pm
+                                                                <td align="center" bgcolor="violet">05:00pm</td>
+                                                                    <td align ="center">XSL transformations</td>
+                                                                </tr>
+                                                    <tr>
+                                                        <td align="center">WEDNESDAY
+                                                       
+                                                        <td align="center" bgcolor="yellow">8:00am
+                                                        <td align="center" bgcolor="lime">12:00pm
+                                                            <td align="center">XSL Formatting objects</td>
+                                                                </tr>
+                                        </tr>
+        </tr>
+    </table>
+</body>
+</html>
