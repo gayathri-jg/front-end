@@ -1,0 +1,31 @@
+<html>
+<head>
+    <title>html layouts</title>
+    <style>
+        table{
+           border-style: solid;
+           border-collapse: collapse;
+        }
+     </style>
+</head>
+<body>
+   <table border="1"
+    align="center"
+    cellpadding="40"
+    cellspacing="30"
+    width="60%" >
+<tr>
+     <td align="center" colspan="2"><b>Header Section
+</tr>
+<tr>
+   <td align="center" colspan="2"><b>Navigation Bar
+</tr>
+<tr>
+        <td align="center"><b>Index</br> <td align="center"><b>Content Section</b>
+ </tr>
+<tr>
+         <td align="center" colspan="2"><b>Footer Section
+</tr>
+</table>
+</body>
+</html>
