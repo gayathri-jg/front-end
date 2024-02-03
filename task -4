@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title> task 4</title>
+</head>
+<style>
+    table{
+        border-style: solid;
+        border-collapse: collapse;
+    }
+</style>
+<body> 
+    <table border="1"
+     align="center"
+      cellpadding="50" 
+      cellspacing="50"
+       width="50%" >
+<tr>
+<td>
+    <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_310,h_325/https://theloginsupport.com/wp-content/uploads/2015/10/gmail-sign-in-enter-password.png" 
+    length="25%" width="25%">
+    
+<td>
+    google
+</tr>
+<tr>
+    <td>
+        <img src="https://i1.wp.com/www.notion.ng/wp-content/uploads/2019/10/Facebook-Login.jpg?fit=3421%2C2316&ssl=1" width="25%" length="25%">
+    <td>
+        facebook
+    </tr>
+    <tr>
+        <td>
+            <img src="https://2.bp.blogspot.com/-VHbPMUeCf6E/XNZfFo8X-LI/AAAAAAAAAAg/vgkMJiU3AOUWz6jYL8BwVt4x9GB21iIfACLcBGAs/s1600/twitter%2B1.JPG"
+            width="25%" length="25%">
+        <td>
+            twitter
+        </tr>
+</table>
+</body>
+</html>
