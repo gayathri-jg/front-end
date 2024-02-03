@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <body align="center">
+<style>
+
+    label{
+        width: 80px;
+        display: inline-block;
+    }
+</style>
+        <meta charset="UTF-8">
+        <h2 align="center">Registration Form</h2>
+        <br><br>
+           Student Name*:<input type="text" placeholder="Student name" ><br>
+           Last Name*:<input type="text" placeholder="Last Name" ><br>
+           Enter email*:<input type="text" placeholder="enter a email"> <br>
+           Password*:<input type="text" ><br>
+           gender:<input type="radio" name="a1"/>Male
+           <input type="radio" name="a2"/>Female
+           <input type ="radio" name ="a3"/>other<br>
+           Mobile Number:<input type="int" placeholder="mobile number "> <br>
+           Intersted Course:
+            <input type="checkbox" name="a1">Java</input>
+            <input type="checkbox" name="a2">Html</input>
+            <input type="checkbox" name="a3">Java Script</input>
+            <input type="checkbox" name="a4">Python</input>
+            <br>
+            percentage: 
+            <progress id="files" value="40" max="50" ></progress><br>
+            upload resume*:
+            <form action="/upload" method="post">
+                <input type="file" name="resume" id="resume" accept="doc,.pdf,."> 
+            </form>
+            <br>
+            Select City:
+            <select name="mahabubabad" id="city">
+                    <option>garla</option>
+                    <option>dornakal</option>
+                    <option>marrigudem</option>
+                    <option>maripeda</option>
+                    <option>yellandu</option>
+                </select>
+               </option>
+            <br>
+            Date of Birth:<input type="date" id="date of birth" name="date of birth">
+            <br>
+            Course Start Date:<input type="date"><input type="time">
+                    <br>
+                    Class Timing and Week:
+                    <input type="time">
+                    <input type="date"><br>
+                    google search:
+                    <input type="text"><br>
+                    Favourite colour:
+                    <input type="color">Black<br>
+                    Url:
+                    <input type="text"><br>
+                    google image:
+                    <input type="image"> <br>
+                    Address:
+                    <input type="float"><br>
+                    <button type="button">Reset</button>
+                    <button type="button">submit</button>
+        </form>
+    </body>
+</html>
